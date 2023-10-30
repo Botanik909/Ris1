@@ -198,5 +198,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
 
+        System.out.println("Vsem privet!!!");
     }
 }
